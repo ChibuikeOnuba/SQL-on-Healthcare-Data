@@ -31,15 +31,16 @@ To explore the queries and analyses, clone the repository and run the SQL script
 
 ```bash
 git clone https://github.com/ChibuikeOnuba/SQL-on-Healthcare-Data-.git
+```
 
-Set up PostgreSQL:
+**Set up PostgreSQL:**
 
-Install PostgreSQL
-Create a database and load the Synthea-generated data
+- Install PostgreSQL
+- Create a database and load the Synthea-generated data
 
-Run the Queries:
+**Run the Queries:**
 
-Explore the queries/ directory and run the SQL files in your PostgreSQL environment
+- Explore the queries/ directory and run the SQL files in your PostgreSQL environment
 
 ## **Contribution**
 Contributions are welcome! Feel free to fork the repository, submit issues, and create pull requests. Let's collaborate to enhance this project and drive better healthcare outcomes through data analysis.
